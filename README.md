@@ -7,7 +7,7 @@ URL path.
 docker-compose up
 ```
 
-[Collections of test project](http://localhost:8080/wfs3/test/collections)
+[Collections of test project](http://test.localhost:8080/wfs3/collections)
 
 
 Starting with QGIS 3.30 the WFS3 seems to have issues with `.` chars in layer names. Until 3.28 it was working
