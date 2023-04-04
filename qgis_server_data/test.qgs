@@ -1,4 +1,4 @@
-<qgis projectname="" saveDateTime="2023-04-03T12:26:53" saveUser="kalle" saveUserFull="" version="3.30.0-'s-Hertogenbosch">
+<qgis projectname="" saveDateTime="2023-04-04T11:53:28" saveUser="kalle" saveUserFull="" version="3.30.0-'s-Hertogenbosch">
   <homePath path=""></homePath>
   <title></title>
   <transaction mode="Disabled"></transaction>
@@ -147,7 +147,7 @@
       </wgs84extent>
       <id>gemeinde_grenzen_d90e2d98_6a41_4414_b943_df6ac9125622</id>
       <datasource>./base.ch.gemeinde_grenzen.gpkg|layername=gemeinde_grenzen</datasource>
-      <shortname>base.ch.gemeinde_brenzen</shortname>
+      <shortname>base-ch-gemeinde_grenzen</shortname>
       <title>Gemeindegrenzen Schweiz</title>
       <keywordList>
         <value></value>
@@ -413,6 +413,7 @@
       <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
         <DiagramCategory backgroundAlpha="255" backgroundColor="#ffffff" barWidth="5" diagramOrientation="Up" direction="0" enabled="0" height="15" labelPlacementMethod="XHeight" lineSizeScale="3x:0,0,0,0,0,0" lineSizeType="MM" maxScaleDenominator="1e+08" minScaleDenominator="0" minimumSize="0" opacity="1" penAlpha="255" penColor="#000000" penWidth="0" rotationOffset="270" scaleBasedVisibility="0" scaleDependency="Area" showAxis="1" sizeScale="3x:0,0,0,0,0,0" sizeType="MM" spacing="5" spacingUnit="MM" spacingUnitScale="3x:0,0,0,0,0,0" width="15">
           <fontProperties bold="0" description="Noto Sans,10,-1,0,50,0,0,0,0,0" italic="0" strikethrough="0" style="" underline="0"></fontProperties>
+          <attribute color="#000000" colorOpacity="1" field="" label=""></attribute>
           <axisSymbol>
             <symbol alpha="1" clip_to_extent="1" force_rhr="0" frame_rate="10" is_animated="0" name="" type="line">
               <data_defined_properties>
