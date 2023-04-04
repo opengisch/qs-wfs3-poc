@@ -1,4 +1,4 @@
-<qgis projectname="" saveDateTime="2023-04-04T11:53:28" saveUser="kalle" saveUserFull="" version="3.30.0-'s-Hertogenbosch">
+<qgis projectname="" saveDateTime="2023-04-04T12:01:33" saveUser="kalle" saveUserFull="" version="3.30.0-'s-Hertogenbosch">
   <homePath path=""></homePath>
   <title></title>
   <transaction mode="Disabled"></transaction>
@@ -147,7 +147,7 @@
       </wgs84extent>
       <id>gemeinde_grenzen_d90e2d98_6a41_4414_b943_df6ac9125622</id>
       <datasource>./base.ch.gemeinde_grenzen.gpkg|layername=gemeinde_grenzen</datasource>
-      <shortname>base-ch-gemeinde_grenzen</shortname>
+      <shortname>base.ch.gemeinde_grenzen</shortname>
       <title>Gemeindegrenzen Schweiz</title>
       <keywordList>
         <value></value>

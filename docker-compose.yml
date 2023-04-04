@@ -14,7 +14,7 @@ services:
       - ./nginx_configuration/nginx.conf:/etc/nginx/conf.d/default.conf
       - ./static_files:/files
   qgis-server:
-    image: opengisch/qgis-server:3.30.0-jammy
+    image: opengisch/qgis-server:3.28.4-jammy
     logging:
       options:
         max-size: "5m"
